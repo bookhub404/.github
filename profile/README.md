@@ -1,12 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# 📚 BookHub
 
-**Here are some ideas to get you started:**
+**Социальная сеть для книголюбов**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*Обменивайтесь книгами, делитесь впечатлениями и переосмысляйте любимые произведения*
+
+---
+
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxt.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+
+</div>
+
+---
+
+## О проекте
+
+**BookHub** — это пространство, где читатели находят друг друга. Здесь можно передать книгу в хорошие руки, узнать, что читают другие, и даже написать собственную версию любимой истории.
+
+## Возможности
+
+- **Обмен книгами** — добавляйте книги в свою библиотеку и предлагайте их другим пользователям
+- **Впечатления и рецензии** — делитесь мыслями о прочитанном, оставляйте оценки и комментарии
+- **Творческое переписывание** — создавайте альтернативные версии глав и фрагментов книг
+- **Лента событий** — следите за активностью других читателей
+- **Профиль читателя** — личная библиотека, статистика чтения и история обменов
+
+## Стек технологий
+
+| Слой | Технология |
+|---|---|
+| Backend | Laravel |
+| Frontend | Nuxt.js |
+| База данных | MySQL |
+
+---
+
+<div align="center">
+  Сделано с ❤️ для тех, кто любит читать
+</div>
